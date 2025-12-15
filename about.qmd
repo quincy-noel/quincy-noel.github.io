@@ -1,5 +1,18 @@
 ---
 title: "About"
+template: trestles
+image: QuincyNoel.png
+image-shape: rounded
+image-width: 15em
+links:
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/quincynoel/
+  - text: GitHub
+    href: https://github.com/quincy-noel
+  - text: School Email
+    href: mailto:quincy.noel@colostate.edu
+  - text: Personal Email
+    href: mailto:qcnoel10@gmail.com
 ---
 
 About this site
