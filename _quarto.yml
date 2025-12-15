@@ -3,12 +3,27 @@ project:
   output-dir: docs
 
 website:
-  title: "quincy-noel.github.io"
+  title: "Quincy Noel"
+  image: QuincyNoel.png
+  about:
+    template: trestles
+    image-shape: rounded
+    image-width: 15em
+    links:
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/quincynoel/
+      - text: GitHub
+        href: https://github.com/quincy-noel
+      - text: School Email
+        href: mailto:quincy.noel@colostate.edu
+      - text: Personal Email
+        href: mailto:qcnoel10@gmail.com
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.html
+        text: About
 
 format:
   html:
@@ -19,4 +34,3 @@ format:
     toc: true
 
 editor: visual
-
