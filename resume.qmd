@@ -2,9 +2,7 @@
 title: "Resume"
 ---
 
-[Download my two-page resume (PDF)](QuincyNoelTwo-PageResume.pdf)
-
-[Download my extended resume (PDF)](QuincyNoelExtendedResume.pdf)
+[Download my two-page resume for export (PDF)](QuincyNoelTwo-PageResume.pdf)
 
 Or, view my extended resume here:
 
