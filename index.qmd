@@ -16,4 +16,16 @@ about:
       href: mailto:qcnoel10@gmail.com
 ---
 
-# 
+# Summary
+
+I am a motivated, emerging sustainability professional focused on ethical environmental consulting, urban policy, cutting-edge climate solutions, and carbon management. Passionate about social justice, innovation, and collaborative problem-solving, I leverage cross-cultural experience (with Spanish proficiency), strong all-around communication skills, and a unique technical toolkit to translate intersecting topics into comprehensive strategies accessible to diverse audiences. It is my mission to create actionable plans that address global sustainability challenges while generating tangible benefits for local communities.
+
+# Core Competencies
+
+-   **Leadership & Mentorship:** Engaging stakeholders, guiding heterogeneous teams, and fostering inclusive, equity-focused atmospheres that prioritize detail-oriented improvement.
+
+-   **Strategic Analysis & Project Management:** Rapid comprehension, synthesis, and implementation of multifaceted initiatives with measurable impact.
+
+-   **Environmental Data Modeling & Visualization:** Trained in ArcGIS Pro/Online, openLCA, R coding, Agriculture and Land Use (ALU) and COMET-Farm software, DayCent modeling, and related tools for mapping projects, life cycle assessments, and carbon inventories.
+
+-   **Creative Design:** Drawing on a wide range of professional, extracurricular, and educational backgrounds to develop interdisciplinary policy and sustainability solutions that address complex ecological and societal challenges—encompassing energy transitions, climate change, resource efficiency, and biodiversity.

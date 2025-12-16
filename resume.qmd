@@ -1,0 +1,17 @@
+---
+title: "Resume"
+---
+
+\[Download my resume (PDF)\](WebsiteResume.pdf){target="\_blank"}
+
+\<iframe
+
+src="WebsiteResume.pdf"
+
+width="100%"
+
+height="900px"
+
+style="border: none;"\>
+
+\</iframe\>
