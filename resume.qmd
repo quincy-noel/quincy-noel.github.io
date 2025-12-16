@@ -2,8 +2,12 @@
 title: "Resume"
 ---
 
-[Download my resume (PDF)](WebsiteResume.pdf)
+[Download my two-page resume (PDF)](QuincyNoelTwo-PageResume.pdf)
 
-<iframe src="WebsiteResume.pdf" width="100%" height="900" style="border: none;">
+[Download my extended resume (PDF)](QuincyNoelExtendedResume.pdf)
+
+Or, view my extended resume here:
+
+<iframe src="QuincyNoelExtendedResume.pdf" width="100%" height="900" style="border: none;">
 
 </iframe>
