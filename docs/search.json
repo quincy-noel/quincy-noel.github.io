@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "[Download my resume (PDF)](WebsiteResume.pdf){target=“_blank”}\n&lt;iframe\nsrc=“WebsiteResume.pdf”\nwidth=“100%”\nheight=“900px”\nstyle=“border: none;”&gt;\n&lt;/iframe&gt;"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quincy Noel",
+    "section": "",
+    "text": "Summary\nI am a motivated, emerging sustainability professional focused on ethical environmental consulting, urban policy, cutting-edge climate solutions, and carbon management. Passionate about social justice, innovation, and collaborative problem-solving, I leverage cross-cultural experience (with Spanish proficiency), strong all-around communication skills, and a unique technical toolkit to translate intersecting topics into comprehensive strategies accessible to diverse audiences. It is my mission to create actionable plans that address global sustainability challenges while generating tangible benefits for local communities.\n\n\nCore Competencies\n\nLeadership & Mentorship: Engaging stakeholders, guiding heterogeneous teams, and fostering inclusive, equity-focused atmospheres that prioritize detail-oriented improvement.\nStrategic Analysis & Project Management: Rapid comprehension, synthesis, and implementation of multifaceted initiatives with measurable impact.\nEnvironmental Data Modeling & Visualization: Trained in ArcGIS Pro/Online, openLCA, R coding, Agriculture and Land Use (ALU) and COMET-Farm software, DayCent modeling, and related tools for mapping projects, life cycle assessments, and carbon inventories.\nCreative Design: Drawing on a wide range of professional, extracurricular, and educational backgrounds to develop interdisciplinary policy and sustainability solutions that address complex ecological and societal challenges—encompassing energy transitions, climate change, resource efficiency, and biodiversity."
+  }
+]
