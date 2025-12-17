@@ -5,19 +5,19 @@ toc: false
 
 Below are descriptions of some of my recent projects from my graduate and undergraduate studies. Unfortunately, much of the work I have produced in my professional roles is private, but these provide a foundational view of my skill set. Click on the links to see the projects themselves.
 
-### **Project 1** **–** [Greenhouse Gas Emissions from Odell Brewing Company's Malting-Quality Barley Production and Opportunities for Mitigation (2017-2039) \[PDF\]](#0){style="font-size: 1.25em;"}
+### **Project 1** **–** [Greenhouse Gas Emissions from Odell Brewing Company's Malting-Quality Barley Production and Opportunities for Mitigation (2017-2039) \[PDF\]](files/QuincyNoelGHG_MitigationReport.pdf){style="font-size: 1.25em;"}
 
 -   **Context:** A carbon inventory and mitigation report I wrote for a graduate class at CSU titled "Applications in Greenhouse Gas Inventories"
 
 -   **Primary Tool(s):** R coding and IPCC Guidelines (2006)
 
-### **Project 2 –** [A New Dawn for Ancient Forests: Rewriting the Future of Old-Growth Forest Management with Stakeholder Input \[PDF\]](#0){style="font-size: 1.25em;"}
+### **Project 2 –** [A New Dawn for Ancient Forests: Rewriting the Future of Old-Growth Forest Management with Stakeholder Input \[PDF\]](files/QuincyNoelPolicyBrief.pdf){style="font-size: 1.25em;"}
 
 -   **Context:** A policy brief I created for a graduate class at CSU titled "Greenhouse Gas Policies"
 
 -   **Primary Tool(s):** Project Drawdown
 
-### **Project 3 –** [Emission factor determination and application for materials associated with producing beer \[URL\]](#0){style="font-size: 1.25em;"}
+### **Project 3 –** [Emission factor determination and application for materials associated with producing beer \[URL\]](https://mountainscholar.org/items/d08c1f5c-1149-4736-8900-5c55acdde5ce){style="font-size: 1.25em;"}
 
 -   **Context:** A thesis I produced over the course of my final undergraduate semester at CSU as part of my membership in the Honors Program
 
