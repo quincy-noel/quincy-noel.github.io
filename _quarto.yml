@@ -1,8 +1,12 @@
 project:
   type: website
   output-dir: docs
+  resources:
+      - files/**
+      - images/**
 
 website:
+  site-url: https://quincy-noel.github.io/
   title: "Quincy Noel"
   navbar:
     left:
