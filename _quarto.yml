@@ -7,18 +7,16 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: About
       - href: resume.qmd
         text: Resume
       - href: projects.qmd
         text: Projects
-      - href: interests.qmd
-        text: Interests
 
 format:
   html:
     theme:
-      - cosmo
+      - morph
       - brand
     css: styles.css
     toc: true

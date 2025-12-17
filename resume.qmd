@@ -1,11 +1,12 @@
 ---
 title: "Resume"
+toc: false
 ---
 
-[Download my two-page resume for export (PDF)](QuincyNoelTwo-PageResume.pdf)
+#### [Download my two-page resume for export \[pdf\]](files/QuincyNoelTwo-PageResume.pdf)
 
-Or, view my extended resume here:
+#### Or, view my extended resume here:
 
-<iframe src="QuincyNoelExtendedResume.pdf" width="100%" height="900" style="border: none;">
+<iframe src="files/QuincyNoelExtendedResume.pdf" width="100%" height="900" style="border: none;">
 
 </iframe>

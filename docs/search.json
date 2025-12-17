@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "Download my two-page resume for export (PDF)\nOr, view my extended resume here:"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Quincy Noel",
     "section": "",
-    "text": "Summary\nI am a motivated, emerging sustainability professional focused on ethical environmental consulting, urban policy, cutting-edge climate solutions, and carbon management. Passionate about social justice, innovation, and collaborative problem-solving, I leverage cross-cultural experience (with Spanish proficiency), strong all-around communication skills, and a unique technical toolkit to translate intersecting topics into comprehensive strategies accessible to diverse audiences. It is my mission to create actionable plans that address global sustainability challenges while generating tangible benefits for local communities.\n\n\nCore Competencies\n\nLeadership & Mentorship: Engaging stakeholders, guiding heterogeneous teams, and fostering inclusive, equity-focused atmospheres that prioritize detail-oriented improvement.\nStrategic Analysis & Project Management: Rapid comprehension, synthesis, and implementation of multifaceted initiatives with measurable impact.\nEnvironmental Data Modeling & Visualization: Trained in ArcGIS Pro/Online, openLCA, R coding, Agriculture and Land Use (ALU) and COMET-Farm software, DayCent modeling, and related tools for mapping projects, life cycle assessments, and carbon inventories.\nCreative Design: Drawing on a wide range of professional, extracurricular, and educational backgrounds to develop interdisciplinary policy and sustainability solutions that address complex ecological and societal challenges—encompassing energy transitions, climate change, resource efficiency, and biodiversity.\n\n\n\nCurrent Positions\nCross-Cultural Mapping Specialist (Fall 2025 to Present)\nTrees, Water & People in Fort Collins, CO\n\nStandardize multilingual survey data (English, Spanish, and French) from Mesoamerica and the Caribbean, and create maps and interactive visualizations (ArcGIS Pro/Online with Experience Builder)\nCollaborate with the CSU Geospatial Centroid to ensure mapping quality and data safety\nAttend English- and Spanish-language staff meetings to support interdepartmental project coordination and general operations\n\nAssistant Outreach Coordinator (Fall 2025 to Present)\nCSU Energy Institute in Fort Collins, CO\n\nDesign, carry out, and evaluate educational programming in a mobile classroom focused on clean energy, sustainability, and climate solutions\nPlan and run a branch of the annual international KidWind Challenge (Qualtrics)\n\n\n\nEducation\nProfessional Science Master’s, Ecosystem Science & Sustainability (2026)\nCarbon Management and Water Resources concentrations (4.0 GPA)\nColorado State University in Fort Collins, CO\nBachelor of Science, Ecosystem Science & Sustainability, cum laude (2025)\nSociology minor (3.88 GPA)\nColorado State University in Fort Collins, CO"
+    "text": "I am a motivated, emerging sustainability professional focused on ethical environmental consulting, urban policy, cutting-edge climate solutions, and carbon management. Passionate about social justice, innovation, and collaborative problem-solving, I leverage cross-cultural experience (with Spanish proficiency), strong all-around communication skills, and a unique technical toolkit to translate intersecting topics into comprehensive strategies accessible to diverse audiences. It is my mission to create actionable plans that address global sustainability challenges while generating tangible benefits for local communities."
   },
   {
     "objectID": "index.html#summary",
@@ -25,6 +18,62 @@
     "href": "index.html#core-competencies",
     "title": "Quincy Noel",
     "section": "Core Competencies",
-    "text": "Core Competencies\n\nLeadership & Mentorship: Engaging stakeholders, guiding heterogeneous teams, and fostering inclusive, equity-focused atmospheres that prioritize detail-oriented improvement.\nStrategic Analysis & Project Management: Rapid comprehension, synthesis, and implementation of multifaceted initiatives with measurable impact.\nEnvironmental Data Modeling & Visualization: Trained in ArcGIS Pro/Online, openLCA, R coding, Agriculture and Land Use (ALU) and COMET-Farm software, DayCent modeling, and related tools for mapping projects, life cycle assessments, and carbon inventories.\nCreative Design: Drawing on a wide range of professional, extracurricular, and educational backgrounds to develop interdisciplinary policy and sustainability solutions that address complex ecological and societal challenges—encompassing energy transitions, climate change, resource efficiency, and biodiversity."
+    "text": "Core Competencies\n\nLeadership & Mentorship: Engaging stakeholders, guiding heterogeneous teams, and fostering inclusive, equity-focused atmospheres that prioritize detail-oriented improvement\nStrategic Analysis & Project Management: Rapid comprehension, synthesis, and implementation of multifaceted initiatives with measurable impact\nEnvironmental Data Modeling & Visualization: Trained in ArcGIS Pro/Online, openLCA, R coding, Agriculture and Land Use (ALU) and COMET-Farm software, DayCent modeling, and related tools for mapping projects, life cycle assessments, and carbon inventories\nCreative Design: Drawing on a wide range of professional, extracurricular, and educational backgrounds to develop interdisciplinary policy and sustainability solutions that address complex ecological and societal challenges—encompassing energy transitions, climate change, resource efficiency, and biodiversity"
+  },
+  {
+    "objectID": "index.html#current-positions",
+    "href": "index.html#current-positions",
+    "title": "Quincy Noel",
+    "section": "Current Positions",
+    "text": "Current Positions\nCross-Cultural Mapping Specialist (Fall 2025 to Present)\nTrees, Water & People in Fort Collins, CO\n\nStandardize multilingual survey data (English, Spanish, and French) from Mesoamerica and the Caribbean, and create maps and interactive visualizations (ArcGIS Pro/Online with Experience Builder)\nCollaborate with the CSU Geospatial Centroid to ensure mapping quality and data safety\nAttend English- and Spanish-language staff meetings to support interdepartmental project coordination and general operations\n\nAssistant Outreach Coordinator (Fall 2025 to Present)\nCSU Energy Institute in Fort Collins, CO\n\nDesign, carry out, and evaluate educational programming in a mobile classroom focused on clean energy, sustainability, and climate solutions\nPlan and run a branch of the annual international KidWind Challenge (Qualtrics)"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Quincy Noel",
+    "section": "Education",
+    "text": "Education\nProfessional Science Master’s, Ecosystem Science & Sustainability (2026)\nCarbon Management and Water Resources concentrations (4.0 GPA)\nColorado State University in Fort Collins, CO\nBachelor of Science, Ecosystem Science & Sustainability, cum laude (2025)\nSociology minor (3.88 GPA)\nColorado State University in Fort Collins, CO"
+  },
+  {
+    "objectID": "resume.html#or-view-my-extended-resume-here",
+    "href": "resume.html#or-view-my-extended-resume-here",
+    "title": "Resume",
+    "section": "Or, view my extended resume here:",
+    "text": "Or, view my extended resume here:"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are descriptions of some of my recent projects from my graduate and undergraduate studies. Unfortunately, much of the work I have produced in my professional roles is private, but these provide a foundational view of my skill set. Click on the links to see the projects themselves.\n\nProject 1 – Greenhouse Gas Emissions from Odell Brewing Company’s Malting-Quality Barley Production and Opportunities for Mitigation (2017-2039) [PDF]\n\nContext: A carbon inventory and mitigation report I wrote for a graduate class at CSU titled “Applications in Greenhouse Gas Inventories”\nPrimary Tool(s): R coding and IPCC Guidelines (2006)\n\n\n\nProject 2 – A New Dawn for Ancient Forests: Rewriting the Future of Old-Growth Forest Management with Stakeholder Input [PDF]\n\nContext: A policy brief I created for a graduate class at CSU titled “Greenhouse Gas Policies”\nPrimary Tool(s): Project Drawdown\n\n\n\nProject 3 – Emission factor determination and application for materials associated with producing beer [URL]\n\nContext: A thesis I produced over the course of my final undergraduate semester at CSU as part of my membership in the Honors Program\nPrimary Tool(s): openLCA and Microsoft Excel"
+  },
+  {
+    "objectID": "projects.html#project-1-greenhouse-gas-emissions-from-odell-brewing-companys-malting-quality-barley-production-and-opportunities-for-mitigation-2017-2039-pdf",
+    "href": "projects.html#project-1-greenhouse-gas-emissions-from-odell-brewing-companys-malting-quality-barley-production-and-opportunities-for-mitigation-2017-2039-pdf",
+    "title": "Projects",
+    "section": "Project 1: Greenhouse Gas Emissions from Odell Brewing Company’s Malting-Quality Barley Production and Opportunities for Mitigation (2017-2039) [PDF]",
+    "text": "Project 1: Greenhouse Gas Emissions from Odell Brewing Company’s Malting-Quality Barley Production and Opportunities for Mitigation (2017-2039) [PDF]\n\nContext: A carbon inventory and mitigation report I wrote for a graduate class at CSU titled “Applications in Greenhouse Gas Inventories”\nPrimary Tool(s): R coding and IPCC Guidelines (2006)"
+  },
+  {
+    "objectID": "projects.html#project-2-a-new-dawn-for-ancient-forests-rewriting-the-future-of-old-growth-forest-management-with-stakeholder-input-pdf",
+    "href": "projects.html#project-2-a-new-dawn-for-ancient-forests-rewriting-the-future-of-old-growth-forest-management-with-stakeholder-input-pdf",
+    "title": "Projects",
+    "section": "Project 2: A New Dawn for Ancient Forests: Rewriting the Future of Old-Growth Forest Management with Stakeholder Input [PDF]",
+    "text": "Project 2: A New Dawn for Ancient Forests: Rewriting the Future of Old-Growth Forest Management with Stakeholder Input [PDF]\n\nContext: A policy brief I created for a graduate class at CSU titled “Greenhouse Gas Policies”\nPrimary Tool(s): Project Drawdown"
+  },
+  {
+    "objectID": "projects.html#project-3-emission-factor-determination-and-application-for-materials-associated-with-producing-beer-url",
+    "href": "projects.html#project-3-emission-factor-determination-and-application-for-materials-associated-with-producing-beer-url",
+    "title": "Projects",
+    "section": "Project 3: Emission factor determination and application for materials associated with producing beer [URL]",
+    "text": "Project 3: Emission factor determination and application for materials associated with producing beer [URL]\n\nContext: A thesis I produced over the course of my final undergraduate semester at CSU as part of my membership in the Honors Program\nPrimary Tool(s): openLCA and Microsoft Excel"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download my two-page resume for export [pdf]\n\n\nOr, view my extended resume here:"
   }
 ]

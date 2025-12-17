@@ -1,6 +1,6 @@
 ---
 title: "Quincy Noel"
-image: QuincyNoel.png
+image: images/QuincyNoel.png
 about:
   template: trestles
   image-shape: rounded
@@ -16,21 +16,21 @@ about:
       href: mailto:qcnoel10@gmail.com
 ---
 
-# Summary
+## Summary
 
 I am a motivated, emerging sustainability professional focused on ethical environmental consulting, urban policy, cutting-edge climate solutions, and carbon management. Passionate about social justice, innovation, and collaborative problem-solving, I leverage cross-cultural experience (with Spanish proficiency), strong all-around communication skills, and a unique technical toolkit to translate intersecting topics into comprehensive strategies accessible to diverse audiences. It is my mission to create actionable plans that address global sustainability challenges while generating tangible benefits for local communities.
 
-# Core Competencies
+## Core Competencies
 
--   **Leadership & Mentorship:** Engaging stakeholders, guiding heterogeneous teams, and fostering inclusive, equity-focused atmospheres that prioritize detail-oriented improvement.
+-   **Leadership & Mentorship:** Engaging stakeholders, guiding heterogeneous teams, and fostering inclusive, equity-focused atmospheres that prioritize detail-oriented improvement
 
--   **Strategic Analysis & Project Management:** Rapid comprehension, synthesis, and implementation of multifaceted initiatives with measurable impact.
+-   **Strategic Analysis & Project Management:** Rapid comprehension, synthesis, and implementation of multifaceted initiatives with measurable impact
 
--   **Environmental Data Modeling & Visualization:** Trained in ArcGIS Pro/Online, openLCA, R coding, Agriculture and Land Use (ALU) and COMET-Farm software, DayCent modeling, and related tools for mapping projects, life cycle assessments, and carbon inventories.
+-   **Environmental Data Modeling & Visualization:** Trained in ArcGIS Pro/Online, openLCA, R coding, Agriculture and Land Use (ALU) and COMET-Farm software, DayCent modeling, and related tools for mapping projects, life cycle assessments, and carbon inventories
 
--   **Creative Design:** Drawing on a wide range of professional, extracurricular, and educational backgrounds to develop interdisciplinary policy and sustainability solutions that address complex ecological and societal challenges—encompassing energy transitions, climate change, resource efficiency, and biodiversity.
+-   **Creative Design:** Drawing on a wide range of professional, extracurricular, and educational backgrounds to develop interdisciplinary policy and sustainability solutions that address complex ecological and societal challenges—encompassing energy transitions, climate change, resource efficiency, and biodiversity
 
-# Current Positions
+## Current Positions
 
 **Cross-Cultural Mapping Specialist** (Fall 2025 to Present)
 
@@ -50,7 +50,7 @@ CSU Energy Institute in Fort Collins, CO
 
 -   Plan and run a branch of the annual international KidWind Challenge (Qualtrics)
 
-# Education
+## Education
 
 **Professional Science Master’s, Ecosystem Science & Sustainability** (2026)
 
